@@ -1,0 +1,6 @@
+{
+  "name": "Wikipedia Assistant",
+  "description": "An AI-powered assistant to search and summarize content from Wikipedia, providing answers in Vietnamese with source citations.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
